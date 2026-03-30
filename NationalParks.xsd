@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xs:schema id="NationalParks"
     targetNamespace="http://tempuri.org/NationalParks.xsd"
-    elementFormDefault="qualified"
+    elementFormDefault="unqualified"
     xmlns="http://tempuri.org/NationalParks.xsd"
     xmlns:mstns="http://tempuri.org/NationalParks.xsd"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
@@ -28,7 +28,6 @@
 										<xs:element name="Zip" type="xs:string"/>
 									</xs:sequence>
 
-									<!-- Optional attribute -->
 									<xs:attribute name="NearestAirport" type="xs:string" use="optional"/>
 
 								</xs:complexType>
@@ -36,7 +35,6 @@
 
 						</xs:sequence>
 
-						<!-- Optional Rating attribute -->
 						<xs:attribute name="Rating" type="xs:decimal" use="optional"/>
 
 					</xs:complexType>
