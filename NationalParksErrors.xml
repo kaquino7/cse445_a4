@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <NationalPark>
 
-	<NationalPark>
+	<NationalPark Rating="4.9">
 		<Name>Grand Canyon</Name>
 		<Phone>928-638-7496</Phone>
 		<Phone>888-297-2757</Phone>
 		<Phone>866-499-2574</Phone>
 		<Address NearestAirport="Flagstaff">
 			<Number>8</Number>
-			<Street>S Entrance Road</Street>
+			<Street>South Entrance Road</Street>
 			<City>Grand Canyon</City>
 			<State>AZ</State>
 			<Zip>86023</Zip>
@@ -20,10 +20,22 @@
 		<Name>Yellowstone</Name>
 		<Address NearestAirport="Bozeman">
 			<Number>2</Number>
-			<Street>Park Entrance Rd</Street>
+			<Street>Officers Row</Street>
 			<City>Yellowstone</City>
 			<State>WY</State>
 			<Zip>82190</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.9">
+		<Name>Badlands</Name>
+		<Phone>605-433-5361</Phone>
+		<Address NearestAirport="Rapid City">
+			<Number>25216</Number>
+			<Street>Ben Reifel Road</Street>
+			<City>Interior</City>
+			<State>SD</State>
+			<Zip>57750</Zip>
 		</Address>
 	</NationalPark>
 
@@ -40,19 +52,17 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.7">
+	<NationalPark Rating="4.8">
 		<Name>Zion</Name>
-		<Name>Zion National Park</Name>
 		<Phone>435-772-3256</Phone>
-
 		<Address NearestAirport="Las Vegas">
 			<Number>1</Number>
 			<Street>Zion Park Blvd</Street>
 			<City>Springdale</City>
 			<State>UT</State>
 			<Zip>84767</Zip>
-
-		</NationalPark>
+		</Address>
+	</NationalPark>
 
 	<NationalPark>
 		<Name>Rocky Mountain</Name>
@@ -66,12 +76,12 @@
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.6">
+	<NationalPark Rating="4.9">
 		<Name>Acadia</Name>
 		<Phone>207-288-3338</Phone>
-		<Address NearestAirport="Bangor">
-			<Number>20</Number>
-			<Street>McFarland Hill Dr</Street>
+		<Address NearestAirport="Bar Harbor">
+			<Number>25</Number>
+			<Street>Visitor Center Road</Street>
 			<City>Bar Harbor</City>
 			<State>ME</State>
 			<Zip>04609</Zip>
@@ -88,10 +98,9 @@
 			<City>Homestead</City>
 			<State>FL</State>
 			<Zip>33034</Zip>
-		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.5">
+	<NationalPark Rating="4.8">
 		<Name>Glacier</Name>
 		<Phone>406-888-7800</Phone>
 		<Address NearestAirport="Kalispell">
@@ -105,20 +114,32 @@
 
 	<NationalPark>
 		<Name>Joshua Tree</Name>
+		<Name>Joshua Tree National Park</Name>
 		<Phone>760-367-5500</Phone>
 		<Address>
 			<Number>74485</Number>
-			<Street>National Park Dr</Street>
+			<Street>National Park Drive</Street>
 			<City>Twentynine Palms</City>
 			<State>CA</State>
 			<Zip>92277</Zip>
 		</Address>
 	</NationalPark>
 
-	<NationalPark Rating="4.4">
-		<Name>Arches</Name>
+	<NationalPark Rating="4.7">
+		<Name>Congaree</Name>
+		<Phone>803-776-4396</Phone>
+		<Address NearestAirport="Columbia">
+			<Number>100</Number>
+			<Street>National Park Road</Street>
+			<City>Hopkins</City>
+			<State>SC</State>
+			<Zip>29061</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
 		<Phone>435-719-2299</Phone>
-		<Address NearestAirport="Moab">
+		<Address NearestAirport="Salt Lake City">
 			<Number>11</Number>
 			<Street>Arches Entrance Rd</Street>
 			<City>Moab</City>
